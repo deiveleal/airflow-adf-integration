@@ -1,0 +1,5 @@
+1-dll
+2-lib
+3-exp
+4-exe
+5-pdb
